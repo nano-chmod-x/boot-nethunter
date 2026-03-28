@@ -24,7 +24,7 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 1. Update Termux to the latest version:
 
-   ```bash
+   ```
    apt update && apt upgrade -y
    ```
 
@@ -34,25 +34,25 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 1. Download the installer:
 
-   ```bash
+   ```
    wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
    ```
 
 2. Make it executable:
 
-   ```bash
+   ```
    chmod +x install_boot-kali.sh
    ```
 
 3. Run the installer:
 
-   ```bash
+   ```
    ./install_boot-kali.sh
    ```
 
 4. **et voilà!** Installation complete 🎉. Now, clean up:
 
-   ```bash
+   ```
    rm install_boot-kali.sh
    ```
 
