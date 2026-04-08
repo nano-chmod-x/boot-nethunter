@@ -46,8 +46,8 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 3. Run the installer:
 
-   ```bash
-   install_boot-kali.sh
+   ```
+   bash install_boot-kali.sh
    ```
 
 4. **et voilà!** Installation complete 🎉. Now, clean up:
