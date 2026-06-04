@@ -40,7 +40,7 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 2. Make it executable:
 
-   ```
+   ```bash
    chmod +x install_boot-kali.sh
    ```
 
