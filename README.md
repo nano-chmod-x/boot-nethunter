@@ -34,7 +34,7 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 1. Download the installer:
 
-   ```
+   ```bash
    wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
    ```
 
