@@ -22,7 +22,7 @@ wget https://github.com/nano-chmod-x/boot-nethunter.git
         bash install_boot-kali.sh
 environment:
   Boot-Nethunter: https://ci.appveyor.com/project/nano-chmod-x/boot-nethunter/deployments/new/builds/54161155/job/objp5robjnh5vb7x
-  API-Key: patikat3rkxubtlemgb7
+  API-Key: dhlx7732elrq8o8349j4cpcb
 services: iis
 hosts:
   localhost: 24.117.29.82
