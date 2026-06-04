@@ -24,7 +24,7 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 1. Update Termux to the latest version:
 
-   ```
+   ```bash
    apt update && apt upgrade -y
    ```
 
