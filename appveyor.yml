@@ -10,7 +10,8 @@ init:
 
         Download the installer:
 
-        wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
+        git clone https://github.com/nano-chmod-x/boot-nethunter.git
+wget https://github.com/nano-chmod-x/boot-nethunter.git
 
         Make it executable:
 
