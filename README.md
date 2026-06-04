@@ -52,7 +52,7 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
 
 4. **et voilà!** Installation complete 🎉. Now, clean up:
 
-   ```
+   ```bash
    rm install_boot-kali.sh
    ```
 
