@@ -1,0 +1,91 @@
+version: 1.0.{build}
+clone_folder: https://ci.appveyor.com/project/nano-chmod-x/boot-nethunter/deployments/new/builds/54161155/job/objp5robjnh5vb7x
+init:
+- sh: >-
+    apt update && apt upgrade -y
+
+        Restart Termux. If prompted for superuser access at any point, grant it.
+
+    Instructions
+
+        Download the installer:
+
+        wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
+
+        Make it executable:
+
+        chmod +x install_boot-kali.sh
+
+        Run the installer:
+
+        bash install_boot-kali.sh
+environment:
+  Boot-Nethunter: https://ci.appveyor.com/project/nano-chmod-x/boot-nethunter/deployments/new/builds/54161155/job/objp5robjnh5vb7x
+  API-Key: patikat3rkxubtlemgb7
+services: iis
+hosts:
+  localhost: 24.117.29.82
+install:
+- sh: >-
+    apt update && apt upgrade -y
+
+        Restart Termux. If prompted for superuser access at any point, grant it.
+
+    Instructions
+
+        Download the installer:
+
+        wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
+
+        Make it executable:
+
+        chmod +x install_boot-kali.sh
+
+        Run the installer:
+
+        bash install_boot-kali.sh
+nuget:
+  account_feed: true
+  project_feed: true
+build_script:
+- sh: >-
+    apt update && apt upgrade -y
+
+        Restart Termux. If prompted for superuser access at any point, grant it.
+
+    Instructions
+
+        Download the installer:
+
+        wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
+
+        Make it executable:
+
+        chmod +x install_boot-kali.sh
+
+        Run the installer:
+
+        bash install_boot-kali.sh
+artifacts:
+- path: https://ci.appveyor.com/project/nano-chmod-x/boot-nethunter/deployments/new/builds/54161155/job/objp5robjnh5vb7x
+  name: Operator.x0x1
+deploy_script:
+- sh: >-
+    git clone https://ci.appveyor.com/project/nano-chmod-x/boot-nethunter/deployments/new/builds/54161155/job/objp5robjnh5vb7x
+         apt update && apt upgrade -y
+
+        Restart Termux. If prompted for superuser access at any point, grant it.
+
+    Instructions
+
+        Download the installer:
+
+        wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
+
+        Make it executable:
+
+        chmod +x install_boot-kali.sh
+
+        Run the installer:
+
+        bash install_boot-kali.sh
