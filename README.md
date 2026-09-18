@@ -43,7 +43,9 @@ If you’ve ever used **Nethunter-Rooted**, you’ve likely come across the **Ne
    ```bash
    chmod +x install_boot-kali.sh
    ```
-
+   ```bash
+   cd boot-nethunter
+   ````
 3. Run the installer:
 
    ```bash
